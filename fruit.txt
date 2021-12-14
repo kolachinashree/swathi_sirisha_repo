@@ -1,7 +1,4 @@
 apple
 :wq
-<<<<<<< HEAD
 pineapple
 grapes
-=======
->>>>>>> parent of 404fbd5... pineapple
